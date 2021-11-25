@@ -6,6 +6,7 @@ This application should also have at least two routes to give you a chance to ma
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Create a new project with `create-react-app` and get rid of the boilerplate as in the previous projects.
 2. Think about the component and the folder structure. How could you set up your application? Which components or functionalities do you need?
 3. You should have at least two pages (a homepage and a shop page, which includes your shopping cart). Let a user navigate between the pages with a navigation bar, which will be shown on both routes.

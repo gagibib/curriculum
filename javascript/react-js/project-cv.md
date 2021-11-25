@@ -11,6 +11,7 @@ So let's get started.
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Create a new project using `npx create-react-app cv-project`. If you need a reminder on how it works, check out the previous lessons. Don't forget to setup a GitHub repository for your project, to push your progress.
 2. Remove the boilerplate code created by `create-react-app`.
 3. You should use class components for this project. You're going to find a lot of code written using class components and this practical experience will help you understand it when encountered. You'll also revisit this project in a later lesson to replace the class components with functional ones.

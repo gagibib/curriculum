@@ -218,6 +218,7 @@ While we are pushing this API key to the frontend, this isn't something you shou
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Read the fetch documentation [here](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch). It's not all that complicated to use, but we've only really scratched the surface at this point.
 2. Check out [this list](https://github.com/abhishekbanthia/Public-APIs) and [this list](https://github.com/public-apis/public-apis) of free, open APIs and let your imagination go wild.
 3. Expand on our little project here by adding a button that fetches a new image without refreshing the page.

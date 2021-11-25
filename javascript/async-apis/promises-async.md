@@ -67,6 +67,7 @@ Of course, there are many more occasions where one would want to use Promises be
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Read [this article](https://davidwalsh.name/promises). It's a good starting place and it's short and to the point.
 2. Watch [this video](https://www.youtube.com/watch?v=2d7s3spWAzo).  It's a good place to get a feel for how one might actually use promises in the wild. Feel free to watch the other videos in the series, but they aren't strictly needed at this point.  The video also mentions the ES5/ES6 issue, don't worry about that at this point either.  All major browsers support Promises and we will teach you how to support older browsers in a later lesson.
 3. Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) to understand how asynchronous code works in JavaScript.

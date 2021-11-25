@@ -8,6 +8,7 @@ We have not yet discussed testing the appearance of a webpage.  Doing this requi
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
+
 1. Begin your app by creating the `Ship` factory function.
    1. Your 'ships' will be objects that include their length, where they've been hit and whether or not they've been sunk.
    2. __REMEMBER__ you only have to test your object's public interface.  Only methods or properties that are used outside of your 'ship' object need unit tests.
